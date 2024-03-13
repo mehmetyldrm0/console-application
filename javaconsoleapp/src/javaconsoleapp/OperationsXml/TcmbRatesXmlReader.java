@@ -9,7 +9,7 @@ import java.util.concurrent.TimeUnit;
 
 import javaconsoleapp.dateXml.DateCalculation;
 
-public class TcmbRatesXmlReader {
+public class TcmbRatesXmlControl {
 	private static final String TCMB_URL = "https://www.tcmb.gov.tr/kurlar/today.xml";
 	private static final String IF_MODIFIED_SINCE_HEADER = "If-Modified-Since";
 	private static String lastModifiedDate = null;
