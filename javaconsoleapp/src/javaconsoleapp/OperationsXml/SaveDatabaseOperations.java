@@ -1,7 +1,6 @@
 package javaconsoleapp.OperationsXml;
 
 import java.time.LocalDate;
-
 import org.hibernate.Session;
 import org.hibernate.SessionFactory;
 import org.hibernate.Transaction;
@@ -9,7 +8,6 @@ import org.hibernate.cfg.Configuration;
 import org.w3c.dom.CharacterData;
 import org.w3c.dom.Element;
 import org.w3c.dom.Node;
-
 import javaconsoleapp.dateXml.FileModificationDate;
 import javaconsoleapp.entity.Banknote;
 import javaconsoleapp.entity.Cross;
@@ -17,11 +15,13 @@ import javaconsoleapp.entity.Forex;
 import javaconsoleapp.entity.Information;
 
 public class SaveDatabaseOperations {
+	private final static String filePath = "output.xml";
+	private static LocalDate date = FileModificationDate.getXMLDate(filePath);
 
 	void addToDatabase(Element element) {
-		
+
 		Configuration configuration = new Configuration().configure();
-		
+
 		try (SessionFactory sessionFactory = configuration.buildSessionFactory()) {
 			try (Session session = sessionFactory.openSession()) {
 				Transaction transaction = session.beginTransaction();
@@ -44,8 +44,7 @@ public class SaveDatabaseOperations {
 	protected Forex saveToForexTable(Element element) {
 
 		Forex forex = new Forex();
-		LocalDate date = FileModificationDate.getXMLDate("output.xml");
-		
+
 		forex.setCreateDate(date);
 		forex.setCurrencyCode(element.getAttribute("CurrencyCode"));
 		forex.setUnit(Integer.parseInt(getValueOfElement(element, "Unit")));
@@ -57,7 +56,6 @@ public class SaveDatabaseOperations {
 	protected Banknote saveToBanknoteTable(Element element) {
 
 		Banknote banknote = new Banknote();
-		LocalDate date = FileModificationDate.getXMLDate("output.xml");
 
 		banknote.setCreateDate(date);
 		banknote.setCurrencyCode(element.getAttribute("CurrencyCode"));
@@ -71,7 +69,6 @@ public class SaveDatabaseOperations {
 	protected Cross saveToCrossTable(Element element) {
 
 		Cross cross = new Cross();
-		LocalDate date = FileModificationDate.getXMLDate("output.xml");
 
 		double crossRate = Double.parseDouble(getValueOfElement(element, "CrossRateUSD"));
 		if (crossRate == 0) {
@@ -88,7 +85,6 @@ public class SaveDatabaseOperations {
 	protected Information saveToInformationTable(Element element) {
 
 		Information information = new Information();
-		LocalDate date = FileModificationDate.getXMLDate("output.xml");
 
 		information.setCreateDate(date);
 		information.setInformationRate(Double.parseDouble(getValueOfElement(element, "InformationRate")));

@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="isokur.xsl"?>
-<Tarih_Date Tarih="08.03.2024" Date="03/08/2024"  Bulten_No="2024/49" >
+<Tarih_Date Tarih="12.03.2024" Date="03/12/2024"  Bulten_No="2024/51" >
 	<Currency CrossOrder="0" Kod="USD" CurrencyCode="USD">
 			<Unit>1</Unit>
 			<Isim>ABD DOLARI</Isim>
 			<CurrencyName>US DOLLAR</CurrencyName>
-			<ForexBuying>31.8618</ForexBuying>
-			<ForexSelling>31.9192</ForexSelling>
-			<BanknoteBuying>31.8395</BanknoteBuying>
-			<BanknoteSelling>31.9671</BanknoteSelling>
+			<ForexBuying>31.9856</ForexBuying>
+			<ForexSelling>32.0432</ForexSelling>
+			<BanknoteBuying>31.9632</BanknoteBuying>
+			<BanknoteSelling>32.0913</BanknoteSelling>
 			<CrossRateUSD/>
 			<CrossRateOther/>
 		
@@ -17,11 +17,11 @@
 			<Unit>1</Unit>
 			<Isim>AVUSTRALYA DOLARI</Isim>
 			<CurrencyName>AUSTRALIAN DOLLAR</CurrencyName>
-			<ForexBuying>21.1075</ForexBuying>
-			<ForexSelling>21.2452</ForexSelling>
-			<BanknoteBuying>21.0104</BanknoteBuying>
-			<BanknoteSelling>21.3727</BanknoteSelling>
-				<CrossRateUSD>1.5059</CrossRateUSD>
+			<ForexBuying>21.1127</ForexBuying>
+			<ForexSelling>21.2504</ForexSelling>
+			<BanknoteBuying>21.0156</BanknoteBuying>
+			<BanknoteSelling>21.3779</BanknoteSelling>
+				<CrossRateUSD>1.5114</CrossRateUSD>
 				<CrossRateOther/>
 		
 	</Currency>
@@ -29,11 +29,11 @@
 			<Unit>1</Unit>
 			<Isim>DANİMARKA KRONU</Isim>
 			<CurrencyName>DANISH KRONE</CurrencyName>
-			<ForexBuying>4.6673</ForexBuying>
-			<ForexSelling>4.6902</ForexSelling>
-			<BanknoteBuying>4.6640</BanknoteBuying>
-			<BanknoteSelling>4.7010</BanknoteSelling>
-				<CrossRateUSD>6.8161</CrossRateUSD>
+			<ForexBuying>4.6820</ForexBuying>
+			<ForexSelling>4.7050</ForexSelling>
+			<BanknoteBuying>4.6787</BanknoteBuying>
+			<BanknoteSelling>4.7158</BanknoteSelling>
+				<CrossRateUSD>6.8210</CrossRateUSD>
 				<CrossRateOther/>
 		
 	</Currency>
@@ -41,35 +41,35 @@
 			<Unit>1</Unit>
 			<Isim>EURO</Isim>
 			<CurrencyName>EURO</CurrencyName>
-			<ForexBuying>34.8478</ForexBuying>
-			<ForexSelling>34.9106</ForexSelling>
-			<BanknoteBuying>34.8234</BanknoteBuying>
-			<BanknoteSelling>34.9629</BanknoteSelling>
+			<ForexBuying>34.9675</ForexBuying>
+			<ForexSelling>35.0305</ForexSelling>
+			<BanknoteBuying>34.9430</BanknoteBuying>
+			<BanknoteSelling>35.0830</BanknoteSelling>
 				<CrossRateUSD/>
-				<CrossRateOther>1.0937</CrossRateOther>
+				<CrossRateOther>1.0932</CrossRateOther>
 		
 	</Currency>
 	<Currency CrossOrder="10" Kod="GBP" CurrencyCode="GBP">
 			<Unit>1</Unit>
 			<Isim>İNGİLİZ STERLİNİ</Isim>
 			<CurrencyName>POUND STERLING</CurrencyName>
-			<ForexBuying>40.7816</ForexBuying>
-			<ForexSelling>40.9942</ForexSelling>
-			<BanknoteBuying>40.7530</BanknoteBuying>
-			<BanknoteSelling>41.0557</BanknoteSelling>
+			<ForexBuying>40.8578</ForexBuying>
+			<ForexSelling>41.0708</ForexSelling>
+			<BanknoteBuying>40.8292</BanknoteBuying>
+			<BanknoteSelling>41.1324</BanknoteSelling>
 				<CrossRateUSD/>
-				<CrossRateOther>1.2821</CrossRateOther>
+				<CrossRateOther>1.2796</CrossRateOther>
 		
 	</Currency>
 	<Currency CrossOrder="3" Kod="CHF" CurrencyCode="CHF">
 			<Unit>1</Unit>
 			<Isim>İSVİÇRE FRANGI</Isim>
 			<CurrencyName>SWISS FRANK</CurrencyName>
-			<ForexBuying>36.2582</ForexBuying>
-			<ForexSelling>36.4910</ForexSelling>
-			<BanknoteBuying>36.2038</BanknoteBuying>
-			<BanknoteSelling>36.5457</BanknoteSelling>
-				<CrossRateUSD>0.8767</CrossRateUSD>
+			<ForexBuying>36.4081</ForexBuying>
+			<ForexSelling>36.6418</ForexSelling>
+			<BanknoteBuying>36.3534</BanknoteBuying>
+			<BanknoteSelling>36.6968</BanknoteSelling>
+				<CrossRateUSD>0.8765</CrossRateUSD>
 				<CrossRateOther/>
 		
 	</Currency>
@@ -77,10 +77,10 @@
 			<Unit>1</Unit>
 			<Isim>İSVEÇ KRONU</Isim>
 			<CurrencyName>SWEDISH KRONA</CurrencyName>
-			<ForexBuying>3.1052</ForexBuying>
-			<ForexSelling>3.1373</ForexSelling>
-			<BanknoteBuying>3.1030</BanknoteBuying>
-			<BanknoteSelling>3.1445</BanknoteSelling>
+			<ForexBuying>3.1156</ForexBuying>
+			<ForexSelling>3.1479</ForexSelling>
+			<BanknoteBuying>3.1134</BanknoteBuying>
+			<BanknoteSelling>3.1551</BanknoteSelling>
 				<CrossRateUSD>10.22</CrossRateUSD>
 				<CrossRateOther/>
 		
@@ -89,11 +89,11 @@
 			<Unit>1</Unit>
 			<Isim>KANADA DOLARI</Isim>
 			<CurrencyName>CANADIAN DOLLAR</CurrencyName>
-			<ForexBuying>23.6694</ForexBuying>
-			<ForexSelling>23.7761</ForexSelling>
-			<BanknoteBuying>23.5818</BanknoteBuying>
-			<BanknoteSelling>23.8665</BanknoteSelling>
-				<CrossRateUSD>1.3443</CrossRateUSD>
+			<ForexBuying>23.7065</ForexBuying>
+			<ForexSelling>23.8135</ForexSelling>
+			<BanknoteBuying>23.6188</BanknoteBuying>
+			<BanknoteSelling>23.9039</BanknoteSelling>
+				<CrossRateUSD>1.3474</CrossRateUSD>
 				<CrossRateOther/>
 		
 	</Currency>
@@ -101,23 +101,23 @@
 			<Unit>1</Unit>
 			<Isim>KUVEYT DİNARI</Isim>
 			<CurrencyName>KUWAITI DINAR</CurrencyName>
-			<ForexBuying>103.1467</ForexBuying>
-			<ForexSelling>104.4963</ForexSelling>
-			<BanknoteBuying>101.5995</BanknoteBuying>
-			<BanknoteSelling>106.0638</BanknoteSelling>
+			<ForexBuying>103.5632</ForexBuying>
+			<ForexSelling>104.9183</ForexSelling>
+			<BanknoteBuying>102.0097</BanknoteBuying>
+			<BanknoteSelling>106.4921</BanknoteSelling>
 				<CrossRateUSD/>
-				<CrossRateOther>3.2556</CrossRateOther>
+				<CrossRateOther>3.2561</CrossRateOther>
 		
 	</Currency>
 	<Currency CrossOrder="7" Kod="NOK" CurrencyCode="NOK">
 			<Unit>1</Unit>
 			<Isim>NORVEÇ KRONU</Isim>
 			<CurrencyName>NORWEGIAN KRONE</CurrencyName>
-			<ForexBuying>3.0593</ForexBuying>
-			<ForexSelling>3.0799</ForexSelling>
-			<BanknoteBuying>3.0572</BanknoteBuying>
-			<BanknoteSelling>3.0870</BanknoteSelling>
-				<CrossRateUSD>10.39</CrossRateUSD>
+			<ForexBuying>3.0528</ForexBuying>
+			<ForexSelling>3.0734</ForexSelling>
+			<BanknoteBuying>3.0507</BanknoteBuying>
+			<BanknoteSelling>3.0804</BanknoteSelling>
+				<CrossRateUSD>10.45</CrossRateUSD>
 				<CrossRateOther/>
 		
 	</Currency>
@@ -125,10 +125,10 @@
 			<Unit>1</Unit>
 			<Isim>SUUDİ ARABİSTAN RİYALİ</Isim>
 			<CurrencyName>SAUDI RIYAL</CurrencyName>
-			<ForexBuying>8.4951</ForexBuying>
-			<ForexSelling>8.5104</ForexSelling>
-			<BanknoteBuying>8.4314</BanknoteBuying>
-			<BanknoteSelling>8.5742</BanknoteSelling>
+			<ForexBuying>8.5282</ForexBuying>
+			<ForexSelling>8.5436</ForexSelling>
+			<BanknoteBuying>8.4643</BanknoteBuying>
+			<BanknoteSelling>8.6077</BanknoteSelling>
 				<CrossRateUSD>3.7506</CrossRateUSD>
 				<CrossRateOther/>
 		
@@ -137,11 +137,11 @@
 			<Unit>100</Unit>
 			<Isim>JAPON YENİ</Isim>
 			<CurrencyName>JAPENESE YEN</CurrencyName>
-			<ForexBuying>21.5515</ForexBuying>
-			<ForexSelling>21.6942</ForexSelling>
-			<BanknoteBuying>21.4718</BanknoteBuying>
-			<BanknoteSelling>21.7767</BanknoteSelling>
-				<CrossRateUSD>147.49</CrossRateUSD>
+			<ForexBuying>21.6512</ForexBuying>
+			<ForexSelling>21.7945</ForexSelling>
+			<BanknoteBuying>21.5711</BanknoteBuying>
+			<BanknoteSelling>21.8774</BanknoteSelling>
+				<CrossRateUSD>147.38</CrossRateUSD>
 				<CrossRateOther/>
 		
 	</Currency>
@@ -149,11 +149,11 @@
 			<Unit>1</Unit>
 			<Isim>BULGAR LEVASI</Isim>
 			<CurrencyName>BULGARIAN LEV</CurrencyName>
-			<ForexBuying>17.7171</ForexBuying>
-			<ForexSelling>17.9489</ForexSelling>
+			<ForexBuying>17.7782</ForexBuying>
+			<ForexSelling>18.0109</ForexSelling>
 			<BanknoteBuying></BanknoteBuying>
 			<BanknoteSelling></BanknoteSelling>
-				<CrossRateUSD>1.7883</CrossRateUSD>
+				<CrossRateUSD>1.7891</CrossRateUSD>
 				<CrossRateOther/>
 		
 	</Currency>
@@ -161,11 +161,11 @@
 			<Unit>1</Unit>
 			<Isim>RUMEN LEYİ</Isim>
 			<CurrencyName>NEW LEU</CurrencyName>
-			<ForexBuying>6.9723</ForexBuying>
-			<ForexSelling>7.0635</ForexSelling>
+			<ForexBuying>7.0003</ForexBuying>
+			<ForexSelling>7.0919</ForexSelling>
 			<BanknoteBuying></BanknoteBuying>
 			<BanknoteSelling></BanknoteSelling>
-				<CrossRateUSD>4.5442</CrossRateUSD>
+				<CrossRateUSD>4.5435</CrossRateUSD>
 				<CrossRateOther/>
 		
 	</Currency>
@@ -173,11 +173,11 @@
 			<Unit>1</Unit>
 			<Isim>RUS RUBLESİ</Isim>
 			<CurrencyName>RUSSIAN ROUBLE</CurrencyName>
-			<ForexBuying>0.34932</ForexBuying>
-			<ForexSelling>0.35389</ForexSelling>
+			<ForexBuying>0.34997</ForexBuying>
+			<ForexSelling>0.35455</ForexSelling>
 			<BanknoteBuying></BanknoteBuying>
 			<BanknoteSelling></BanknoteSelling>
-				<CrossRateUSD>90.70</CrossRateUSD>
+				<CrossRateUSD>90.88</CrossRateUSD>
 				<CrossRateOther/>
 		
 	</Currency>
@@ -185,8 +185,8 @@
 			<Unit>100</Unit>
 			<Isim>İRAN RİYALİ</Isim>
 			<CurrencyName>IRANIAN RIAL</CurrencyName>
-			<ForexBuying>0.07544</ForexBuying>
-			<ForexSelling>0.07642</ForexSelling>
+			<ForexBuying>0.07573</ForexBuying>
+			<ForexSelling>0.07672</ForexSelling>
 			<BanknoteBuying></BanknoteBuying>
 			<BanknoteSelling></BanknoteSelling>
 				<CrossRateUSD>42000</CrossRateUSD>
@@ -197,11 +197,11 @@
 			<Unit>1</Unit>
 			<Isim>ÇİN YUANI</Isim>
 			<CurrencyName>CHINESE RENMINBI</CurrencyName>
-			<ForexBuying>4.4063</ForexBuying>
-			<ForexSelling>4.4640</ForexSelling>
+			<ForexBuying>4.4329</ForexBuying>
+			<ForexSelling>4.4909</ForexSelling>
 			<BanknoteBuying></BanknoteBuying>
 			<BanknoteSelling></BanknoteSelling>
-				<CrossRateUSD>7.1904</CrossRateUSD>
+				<CrossRateUSD>7.1751</CrossRateUSD>
 				<CrossRateOther/>
 		
 	</Currency>
@@ -209,11 +209,11 @@
 			<Unit>1</Unit>
 			<Isim>PAKİSTAN RUPİSİ</Isim>
 			<CurrencyName>PAKISTANI RUPEE</CurrencyName>
-			<ForexBuying>0.11351</ForexBuying>
-			<ForexSelling>0.11499</ForexSelling>
+			<ForexBuying>0.11394</ForexBuying>
+			<ForexSelling>0.11543</ForexSelling>
 			<BanknoteBuying></BanknoteBuying>
 			<BanknoteSelling></BanknoteSelling>
-				<CrossRateUSD>279.13</CrossRateUSD>
+				<CrossRateUSD>279.15</CrossRateUSD>
 				<CrossRateOther/>
 		
 	</Currency>
@@ -221,8 +221,8 @@
 			<Unit>1</Unit>
 			<Isim>KATAR RİYALİ</Isim>
 			<CurrencyName>QATARI RIAL</CurrencyName>
-			<ForexBuying>8.6887</ForexBuying>
-			<ForexSelling>8.8024</ForexSelling>
+			<ForexBuying>8.7224</ForexBuying>
+			<ForexSelling>8.8366</ForexSelling>
 			<BanknoteBuying></BanknoteBuying>
 			<BanknoteSelling></BanknoteSelling>
 				<CrossRateUSD>3.6465</CrossRateUSD>
@@ -233,11 +233,11 @@
 			<Unit>1</Unit>
 			<Isim>GÜNEY KORE WONU</Isim>
 			<CurrencyName>SOUTH KOREAN WON</CurrencyName>
-			<ForexBuying>0.02404</ForexBuying>
-			<ForexSelling>0.02435</ForexSelling>
+			<ForexBuying>0.02429</ForexBuying>
+			<ForexSelling>0.02460</ForexSelling>
 			<BanknoteBuying></BanknoteBuying>
 			<BanknoteSelling></BanknoteSelling>
-				<CrossRateUSD>1318</CrossRateUSD>
+				<CrossRateUSD>1310</CrossRateUSD>
 				<CrossRateOther/>
 		
 	</Currency>
@@ -245,8 +245,8 @@
 			<Unit>1</Unit>
 			<Isim>AZERBAYCAN YENİ MANATI</Isim>
 			<CurrencyName>AZERBAIJANI NEW MANAT</CurrencyName>
-			<ForexBuying>18.6372</ForexBuying>
-			<ForexSelling>18.8811</ForexSelling>
+			<ForexBuying>18.7096</ForexBuying>
+			<ForexSelling>18.9544</ForexSelling>
 			<BanknoteBuying></BanknoteBuying>
 			<BanknoteSelling></BanknoteSelling>
 				<CrossRateUSD>1.7000</CrossRateUSD>
@@ -257,8 +257,8 @@
 			<Unit>1</Unit>
 			<Isim>BİRLEŞİK ARAP EMİRLİKLERİ DİRHEMİ</Isim>
 			<CurrencyName>UNITED ARAB EMIRATES DIRHAM</CurrencyName>
-			<ForexBuying>8.6263</ForexBuying>
-			<ForexSelling>8.7391</ForexSelling>
+			<ForexBuying>8.6597</ForexBuying>
+			<ForexSelling>8.7731</ForexSelling>
 			<BanknoteBuying></BanknoteBuying>
 			<BanknoteSelling></BanknoteSelling>
 				<CrossRateUSD>3.6729</CrossRateUSD>
@@ -269,7 +269,7 @@
 		<Unit>1</Unit>
 		<Isim>ÖZEL ÇEKME HAKKI (SDR)                            </Isim>
 		<CurrencyName>SPECIAL DRAWING RIGHT (SDR)                       </CurrencyName>
-		<ForexBuying>42.5652</ForexBuying>
+		<ForexBuying>42.7307</ForexBuying>
 		<ForexSelling/>
 		<BanknoteBuying/>
 		<BanknoteSelling/>

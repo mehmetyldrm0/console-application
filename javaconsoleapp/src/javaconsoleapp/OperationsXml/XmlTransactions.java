@@ -24,7 +24,7 @@ public class XmlTransactions {
 			saveXMLToFile(content);
 			processXMLSave();
 		} catch (Exception e) {
-			// TODO: handle exception
+			e.printStackTrace();
 		}
 	}
 
@@ -61,7 +61,7 @@ public class XmlTransactions {
 	}
 
 	private void processXMLSave() {
-		try {// date fazlalık gibi
+		try {
 			DocumentBuilderFactory dbf = DocumentBuilderFactory.newInstance();
 			DocumentBuilder db = dbf.newDocumentBuilder();
 			Document doc = db.parse(XML_URL);
